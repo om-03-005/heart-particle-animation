@@ -27,6 +27,6 @@ heart and star morphing effects with dynamic themes and bloom lighting.
 
 ## 👨‍💻 Author
 **Om Narayan Darade**  
-GitHub: https://github.com/om-03-005
+GitHub: https://github.com/om-darade03
 
 Made with ❤️ using Three.js
